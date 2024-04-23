@@ -1,0 +1,15 @@
+.card{
+    box-shadow: 0 0 10px rgba(179, 177, 177, 0.54);
+    border-radius: 12px;
+}
+
+.card input{
+    border-radius: 8px;
+    border: 1px solid #b3b1b1;
+}
+
+.card select{
+    border-radius: 8px;
+    padding: .9rem;
+    border: 1px solid #bdbcbc;
+}

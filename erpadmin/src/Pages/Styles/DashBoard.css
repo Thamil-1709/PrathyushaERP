@@ -1,0 +1,13 @@
+
+
+.box {
+    box-shadow: 0 0 10px rgba(179, 177, 177, 0.54);
+    border-radius: 1rem;
+}
+
+.box:hover {
+    box-shadow: 0 3px 20px rgba(179, 177, 177, 0.54);
+    border-radius: 1rem;
+    scale: 1.02;
+    transition: 290ms;
+}
